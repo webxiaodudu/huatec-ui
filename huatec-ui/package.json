@@ -1,0 +1,24 @@
+
+  {
+    "name": "huatec-ui",
+    "version": "1.0.7",
+    "description": "基于vue3+elementPlus+ts的二次封装组件库",
+    "main": "index.es.js",
+    "module": "index.es.js",
+    "types": "index.d.ts",
+    "scripts": {
+      "test": ""
+    },
+    "keywords": [
+      "huatec-ui",
+      "huatec",
+      "HuatecUi",
+      "二次封装组件库",
+      "vue3"
+
+    ],
+    "author": "zhangliwen",
+    "license": "ISC"
+  }
+  
+  

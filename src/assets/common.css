@@ -1,0 +1,18 @@
+:root{
+    --huatec-blue-color:#11baee;/*huatec蓝*/
+
+    --huatec-color-primary:var(--huatec-blue-color);/*主题色*/
+    --huatec-sucess-color:#65C05C;/*成功色*/
+    --huatec-wraning-color:#FBBE70;/*警告色*/
+    --huatec-danger-color:#ff4d4f;/*危险色*/
+    
+    --huatec-primary-border-color:#13b3e4;
+    --huatec-sucess-border-color:#54c54a;/*成功色*/
+    --huatec-wraning-border-color:#ecaa53;/*警告色*/
+    --huatec-danger-border-color:#fa4144;/*危险色*/
+    
+    --huatec-family:'PingFangSC-Medium';/*字体*/
+    --huatec-font-blackcolor:#535150;/*黑色字体*/
+
+    --huatec-border-color:#ccc;/*border颜色*/
+}
