@@ -33,7 +33,7 @@ const goComponent=()=>{
 }
 
 const goDoc = ()=>{
-    location.href=''
+    location.href='https://web_hello.gitee.io/huatec-ui-doc'
 }
 </script>
 
